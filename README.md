@@ -8,7 +8,7 @@
 
 ![Luiz Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=lhenrique11&show_icons=true&theme=dracula&count_private=true)
 
-## Tecnologias do meu dia a dia
+## Tecnologias do meu dia a dia:
 
 <div style="display: inline_block">
   <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -22,6 +22,6 @@
 Apenas um apaixonado por tecnologia que buscar evoluir a cada dia.
 
 
-## Entre em contato comigo
+## Entre em contato comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-599a2392/)
 [![Email](https://img.shields.io/website?label=Email&style=for-the-badge&url=https://sujeitoprogramador.com/)](henrique10lhs@gmail.com)
