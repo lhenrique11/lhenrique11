@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo ao meu perfil! Meu nome é Luiz Henrique 👋💻
+### Olá, seja bem-vindo ao meu perfil! Meu nome é Luiz Henrique 👋💻
 
 
 ## Minhas redes sociais:
@@ -8,6 +8,7 @@
 ## Conheça meus apps na Google Play:
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Fragmento+Tech)
 
+## Minhas stats:
 ![Luiz Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=lhenrique11&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias do meu dia a dia:
