@@ -22,7 +22,7 @@
 </div><br/>
 
 ## Sobre Mim:
-Apenas um apaixonado por tecnologia que buscar evoluir a cada dia. 📈
+Apenas um apaixonado por tecnologia que buscar evoluir a cada dia 📈
 Dev desde 2020 💻
 
 
