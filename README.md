@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo! Meu nome é Luiz Henrique 👋
+### Olá, seja bem-vindo ao meu perfil! Meu nome é Luiz Henrique 👋💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-599a2392/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/11.luiz/)
@@ -18,8 +18,9 @@
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div><br/>
 
-
-Apenas um apaixonado por tecnologia que buscar evoluir a cada dia.
+## Sobre Mim:
+Apenas um apaixonado por tecnologia que buscar evoluir a cada dia. 📈
+Dev desde 2020 💻
 
 
 ## Entre em contato comigo:
