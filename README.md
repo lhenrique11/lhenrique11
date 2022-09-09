@@ -27,5 +27,5 @@ Dev desde 2020 💻
 
 
 ## Entre em contato comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-599a2392/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lhenriquesantos/)
 [![Email](https://img.shields.io/website?label=Email&style=for-the-badge&url=https://sujeitoprogramador.com/)](henrique10lhs@gmail.com)
